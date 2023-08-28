@@ -1,2 +1,2 @@
-# PRODIGY_DS_02
+# Titanic_LogisticRegression
 Logistic  Regression on Titanic Dataset.
